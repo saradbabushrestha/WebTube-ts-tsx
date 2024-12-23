@@ -1,46 +1,46 @@
 export const subscriptions = [
   {
-    channelName: "Fireship",
-    id: "Fireship",
+    channelName: "Nepali Emergency Awareness",
+    id: "NepaliEmergencyAwareness",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKb--NH6RwAGHYsD3KfxX-SAgWgIHrjR5E4Jb5SDSQ=s176-c-k-c0x00ffffff-no-rj",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqg1TI_2vKB3ruX1CsSgltYjDSOVzOX7uvWw&s",
   },
   {
-    channelName: "Caleb Curry",
-    id: "CalebCurry",
+    channelName: "Disaster Preparedness Nepal",
+    id: "DisasterPreparednessNepal",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKbpSojje_-tkBQecNtFuPdSCrg3ZT0FhaYjln9k0g=s176-c-k-c0x00ffffff-no-rj",
+      "https://i0.wp.com/eos.org/wp-content/uploads/2015/05/GettyImages-471517772_web.jpg?fit=820%2C615&ssl=1",
   },
   {
-    channelName: "Web Dev Simplified",
-    id: "WebDevSimplified",
+    channelName: "Nepal Relief Network",
+    id: "NepalReliefNetwork",
     imgUrl:
-      "https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s48-c-k-c0x00ffffff-no-rj",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgoOZM6E-gZojTjx0oZi5dEvgxCjF2-3gng&s",
   },
   {
-    channelName: "Kevin Powell",
-    id: "KevinPowell",
+    channelName: "Health and Safety Nepal",
+    id: "HealthSafetyNepal",
     imgUrl:
-      "https://yt3.ggpht.com/ytc/APkrFKa6XiLa13mMVPzkmmTBcgNPjjqCGPrY86KfJFmf5w=s48-c-k-c0x00ffffff-no-rj",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrs7v9TTdTwiU3cjFGyLaxMEPT_2MN7-kaEw&s",
   },
   {
-    channelName: "Sonny Sangha",
-    id: "SonnySangha",
+    channelName: "Community Support Nepal",
+    id: "CommunitySupportNepal",
     imgUrl:
-      "https://yt3.ggpht.com/FjeN785fVWx0Pr6xCbwPhhq8hHj_gocc3FygDXYDEQgp2gE_FQzRNsFHFAjQ3oE-VJaeGR1a=s68-c-k-c0x00ffffff-no-rj",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXbPXJw2d_m07VK79yl255RvJSOJsUfsEDag&s",
   },
   {
-    channelName: "Traversy Media",
-    id: "TraversyMedia",
+    channelName: "Nepal Aid and Rescue",
+    id: "NepalAidRescue",
     imgUrl:
-      "https://yt3.googleusercontent.com/ytc/APkrFKYcYswt_UhD7D0j6ddiQz6Gb8Q_vSJOjhYI0CoXSw=s176-c-k-c0x00ffffff-no-rj-mo",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsGc9TJBrbDjnV1k6gZKClcgWdnZtIguMvZw&s",
   },
 ];
 
 export const playlists = [
-  { id: "1", name: "Frontend & Backend" },
-  { id: "2", name: "Favorites" },
-  { id: "3", name: "React" },
-  { id: "4", name: "Non-Dev" },
-  { id: "5", name: "TypeScript" },
+  { id: "1", name: "Emergency Preparedness" },
+  { id: "2", name: "Health and First Aid" },
+  { id: "3", name: "Natural Disaster Awareness" },
+  { id: "4", name: "Community Support Videos" },
+  { id: "5", name: "Nepali Cultural Resilience" },
 ];
