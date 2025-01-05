@@ -194,7 +194,7 @@ export const videos = [
       profileUrl:
         "https://yt3.ggpht.com/FGRkF5B3CVziVgpsNz8SRiD48DC14hBsAj5O9q1EWa0rqqFF4oakind9mQU9ERAR2Wk2dMNkwVo=s68-c-k-c0x00ffffff-no-rj",
     },
-    views: 32300,
+    views: 32301,
     postedAt: new Date("2023-10-05"),
     duration: 1200,
     thumbnailUrl:
