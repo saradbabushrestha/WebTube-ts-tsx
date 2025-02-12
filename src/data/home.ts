@@ -221,7 +221,7 @@ export const videos = [
   },
   {
     id: "5",
-    title: "5 Nepali Home Remedies for Common Cold",
+    title: "5 Nepali Home Remedies  Common Cold",
     channel: {
       name: "  Nepal",
       id: "HealthyLivingNepal",
